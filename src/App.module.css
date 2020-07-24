@@ -28,6 +28,34 @@
   color: #61dafb;
 }
 
+.title{
+  margin: 5% 0;
+  letter-spacing: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+}
+
+.description{
+  width:80%;
+  text-align: center;
+  display: block;
+  margin: auto;
+  margin-bottom: 5%;
+}
+
+.title h1{
+  margin: 0;
+  padding-top: 2.5%;
+  padding-left: 1%;
+  font-size: 50px;
+}
+
+.logo{
+  max-height: 100px;
+}
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
