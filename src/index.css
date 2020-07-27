@@ -16,3 +16,7 @@ code {
   font-family: 'GothamMedium';
   src: local('GothamMedium'), url('./fonts/iCiel Gotham-Medium.ttf') format('truetype');
 }
+
+.MuiSelect-select.Mui-disabled{
+  color: gray;
+}

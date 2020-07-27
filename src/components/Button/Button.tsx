@@ -5,7 +5,20 @@ import styles from './Button.module.css';
 const AuthButton = (props) => {
 
 
-    return(<a className = {styles.button} href = {props.href}>{props.children}</a>)
+    return(<div>{props.link &&
+        <a
+         onClick = {props.onClick}
+        className = {styles.button} 
+        href = {props.href}>{props.children}
+        </a>}
+        {props.button && 
+            <button
+             onClick = {props.onClick}
+            className = {styles.button} 
+            >{props.children}
+            </button>}
+            </div>
+        )
 
 }
 

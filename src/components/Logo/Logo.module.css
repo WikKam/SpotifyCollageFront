@@ -1,0 +1,16 @@
+.title{
+    margin: 5% 0;
+    letter-spacing: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+  }
+  .logo{
+    max-height: 100px;
+  }
+  .title h1{
+    margin: 0;
+    padding-top: 2.5%;
+    padding-left: 1%;
+    font-size: 50px;
+  }
