@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SpotifyCollageFront/static/css/main.63cdc941.chunk.css",
+    "main.js": "/SpotifyCollageFront/static/js/main.1bad5a17.chunk.js",
+    "main.js.map": "/SpotifyCollageFront/static/js/main.1bad5a17.chunk.js.map",
+    "runtime-main.js": "/SpotifyCollageFront/static/js/runtime-main.e91e4b4e.js",
+    "runtime-main.js.map": "/SpotifyCollageFront/static/js/runtime-main.e91e4b4e.js.map",
+    "static/js/2.356929a7.chunk.js": "/SpotifyCollageFront/static/js/2.356929a7.chunk.js",
+    "static/js/2.356929a7.chunk.js.map": "/SpotifyCollageFront/static/js/2.356929a7.chunk.js.map",
+    "index.html": "/SpotifyCollageFront/index.html",
+    "precache-manifest.510ced10d4b3013c1bafceb0c9075ead.js": "/SpotifyCollageFront/precache-manifest.510ced10d4b3013c1bafceb0c9075ead.js",
+    "service-worker.js": "/SpotifyCollageFront/service-worker.js",
+    "static/css/main.63cdc941.chunk.css.map": "/SpotifyCollageFront/static/css/main.63cdc941.chunk.css.map",
+    "static/js/2.356929a7.chunk.js.LICENSE.txt": "/SpotifyCollageFront/static/js/2.356929a7.chunk.js.LICENSE.txt",
+    "static/media/Spotify_Logo_RGB_Green.png": "/SpotifyCollageFront/static/media/Spotify_Logo_RGB_Green.11dc437a.png",
+    "static/media/iCiel Gotham-Medium.ttf": "/SpotifyCollageFront/static/media/iCiel Gotham-Medium.022af2f6.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e91e4b4e.js",
+    "static/js/2.356929a7.chunk.js",
+    "static/css/main.63cdc941.chunk.css",
+    "static/js/main.1bad5a17.chunk.js"
+  ]
+}
