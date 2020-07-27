@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30afeb81da06e7db4d1b32c70fdfc30e",
+    "revision": "fc5811e3f6d8168be5f4dd8c2bc57ee1",
     "url": "/SpotifyCollageFront/index.html"
   },
   {
